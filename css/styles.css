@@ -93,3 +93,6 @@ p {
 }
 
 /** GAMEPLAY STYLES **********************************/
+#gameplay-icon {
+    width: 100%;
+}
